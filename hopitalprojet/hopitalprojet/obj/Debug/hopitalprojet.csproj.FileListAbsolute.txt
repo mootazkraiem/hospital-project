@@ -1,0 +1,15 @@
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\bin\Debug\hopitalprojet.exe.config
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\bin\Debug\hopitalprojet.exe
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\bin\Debug\hopitalprojet.pdb
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\obj\Debug\hopitalprojet.Acceuil.resources
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\obj\Debug\hopitalprojet.Form1.resources
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\obj\Debug\hopitalprojet.Properties.Resources.resources
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\obj\Debug\hopitalprojet.Register.resources
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\obj\Debug\hopitalprojet.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\obj\Debug\hopitalprojet.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\obj\Debug\hopitalprojet.exe
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\obj\Debug\hopitalprojet.pdb
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\obj\Debug\hopitalprojet.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\bin\Debug\dbtest.mdf
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\bin\Debug\dbtest_log.ldf
+C:\Users\MSI\source\repos\hopitalprojet\hopitalprojet\obj\Debug\hopitalprojet.fichederegulation.resources
